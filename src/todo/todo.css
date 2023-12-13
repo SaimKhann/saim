@@ -1,0 +1,12 @@
+.header{
+    height: 15%;
+    background-color: rgba(10, 10, 10, 0.905);
+}
+.contant{
+    height: 80%;
+    background-color: rgb(39, 131, 170);
+}
+.footer{
+    height: 5%;
+    background-color: rgba(10, 10, 10, 0.71);
+}
